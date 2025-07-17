@@ -1,1 +1,2 @@
-# myPortfolio
+# My Portfolio
+# Krišjānis Baumanis
